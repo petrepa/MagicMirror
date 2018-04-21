@@ -1,0 +1,2 @@
+# MagicMirror
+My MagicMirror build
